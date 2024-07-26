@@ -1,4 +1,4 @@
-import java.util.*;
+ok ok ok import java.util.*;
 class TestClass {
     public static void main(String args[] ) throws Exception {
        Scanner sc=new Scanner(System.in);
