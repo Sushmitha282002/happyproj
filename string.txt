@@ -1,4 +1,4 @@
-ok ok ok import java.util.*; yuyy
+ok ok ok import java.util.*; yuyy okkk
 class TestClass {
     public static void main(String args[] ) throws Exception {
        Scanner sc=new Scanner(System.in);
